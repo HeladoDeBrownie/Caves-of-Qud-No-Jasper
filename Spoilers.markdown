@@ -1,0 +1,10 @@
+- Reading any sheaf of tattered parchment activates the curse.
+- Once activated, the curse cannot be undone except by loading a save. (Precognition works.)
+- A message saying "Laughter echoes in the distance." means that the curse activated.
+- The curse causes specific objects to spawn as ashes.
+- Existing items are safe. They will not be turned to ashes.
+- The full list of affected objects is as follows:
+    - any jasper figurine
+    - rough jasper
+    - shale wall with jasper deposits
+    - the Levant Face

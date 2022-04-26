@@ -1,0 +1,21 @@
+<objects>
+    <object Name="Sheaf1" Load="Merge">
+        <part Name="helado_NoJasper_CursedBook" Attribute="jasper" />
+    </object>
+
+    <object Name="Random Jasper Figurine" Load="Merge">
+        <part Name="helado_NoJasper_CurseTarget" Attribute="jasper" />
+    </object>
+
+    <object Name="Rough Jasper" Load="Merge">
+        <part Name="helado_NoJasper_CurseTarget" Attribute="jasper" />
+    </object>
+
+    <object Name="JasperWall" Load="Merge">
+        <part Name="helado_NoJasper_CurseTarget" Attribute="jasper" />
+    </object>
+
+    <object Name="The Levant Face" Load="Merge">
+        <part Name="helado_NoJasper_CurseTarget" Attribute="jasper" />
+    </object>
+</objects>
